@@ -1,0 +1,95 @@
+﻿question,code,count,responses_with_codes,percent_of_coded_responses
+OQ1,OverallImprovement,7,16,43.8
+OQ1,SetupEasier,5,16,31.2
+OQ1,NA: ExtToolkit,2,16,12.5
+OQ1,NA: AlignReq,2,16,12.5
+OQ1,BestPractices,2,16,12.5
+OQ1,CreateConfigFIle,2,16,12.5
+OQ1,AlignReq,1,16,6.2
+OQ1,NA: CreateConfigFIle,1,16,6.2
+OQ2,NS: LackOfExperienceToJudge,12,67,17.9
+OQ2,ORG: SharingMaintenance,11,67,16.4
+OQ2,ORG: InternalRegulation,9,67,13.4
+OQ2,IT: IndividualEffort,6,67,9.0
+OQ2,ORG: InternalStandard,4,67,6.0
+OQ2,US: IndividualEffort,3,67,4.5
+OQ2,NO: IndividualEffort,3,67,4.5
+OQ2,ORG: UsageReasons,3,67,4.5
+OQ2,NO: TargetAudience,3,67,4.5
+OQ2,ID: ProjectSpecification,2,67,3.0
+OQ2,US: ConventionalStandards,2,67,3.0
+OQ2,ORG: BestPractices,2,67,3.0
+OQ2,NS: ExternalReasons,2,67,3.0
+OQ2,ORG: IndividualEffortByUser,1,67,1.5
+OQ2,OrgFollowInternalStandards,1,67,1.5
+OQ2,InternalRegulation,1,67,1.5
+OQ2,US: OrgsNotFollowingGoodPractices,1,67,1.5
+OQ2,US: InternalRegulation,1,67,1.5
+OQ2,ORG: ProductOriented,1,67,1.5
+OQ2,ID: ExternalReasons,1,67,1.5
+OQ2,InternalReg,1,67,1.5
+OQ2,ID: InternalReg,1,67,1.5
+OQ2,ORG: Visibility,1,67,1.5
+OQ2,NO: CostRelated,1,67,1.5
+OQ3,YES: SpreadingIssues,34,76,44.7
+OQ3,YES: PreventingHarm,12,76,15.8
+OQ3,ID: ShiftingResponsability,8,76,10.5
+OQ3,YES: ImproveQuality,6,76,7.9
+OQ3,YES: ShiftingResponsability,5,76,6.6
+OQ3,YES: FoundationalReference,5,76,6.6
+OQ3,YES: UserExperience,3,76,3.9
+OQ3,NO: ShiftingResponsability,2,76,2.6
+OQ3,ID: SpreadingIssues,1,76,1.3
+OQ4,KeepUpToDateGeneratedRepos,16,87,18.4
+OQ4,AutomationSetup,15,87,17.2
+OQ4,BuildComunity,14,87,16.1
+OQ4,CustomizationEffort,13,87,14.9
+OQ4,UpdateMigrateDependencyTech,11,87,12.6
+OQ4,EvolutionOfTemplates,11,87,12.6
+OQ4,Documentation,8,87,9.2
+OQ4,OutdatedStandardVision,6,87,6.9
+OQ4,FeatureTemplate,3,87,3.4
+OQ4,CodeQualityEvolution,2,87,2.3
+OQ4,SimilarToNonTemplates,2,87,2.3
+OQ4,TemplateStructure,1,87,1.1
+OQ4,FindTemplate,1,87,1.1
+OQ5,CreatingWhileUpdatingTemplate,14,65,21.5
+OQ5,BetterDocumentation,12,65,18.5
+OQ5,ClearUpgradeStrategy,9,65,13.8
+OQ5,TrackTemplateAndTheirRepos,5,65,7.7
+OQ5,BetterSearch,4,65,6.2
+OQ5,HaveAndCommunicateClearGoal,3,65,4.6
+OQ5,VisibilityTemplatesAndRepos,3,65,4.6
+OQ5,IntegrationWithTechnologies,3,65,4.6
+OQ5,ForcingRulesForCreation,3,65,4.6
+OQ5,TemplateVersioning,3,65,4.6
+OQ5,CommunicationNotifyUsersAboutChanges,3,65,4.6
+OQ5,RegularAutomatedMaintenancy,3,65,4.6
+OQ5,Collaboration,2,65,3.1
+OQ5,FluidProcess,2,65,3.1
+OQ5,RegularAutomatedMaintenance,1,65,1.5
+OQ5,NotSquashingCommits,1,65,1.5
+OQ5,AutomaticArchivingUnupdatedRepos,1,65,1.5
+OQ5,SetupSupportingMultiplePlatforms,1,65,1.5
+OQ5,StopUsingSoon,1,65,1.5
+OQ5,AnyRepoCouldBeTemplate,1,65,1.5
+OQ5,GenerateDiagramsFromTemplate,1,65,1.5
+OQ5,NeedResponsabilityAndTimeForTemplate,1,65,1.5
+OQ5,FollowBestPractices,1,65,1.5
+OQ5,BetterSupportOfGitHubTools,1,65,1.5
+OQ6,SharingKnowledge,4,21,19.0
+OQ6,ToolForAchievingBestPractices,2,21,9.5
+OQ6,ValidButEffortToKeepTemplates,2,21,9.5
+OQ6,GoodButValidForOnce,1,21,4.8
+OQ6,DecreaseUsageDueAIWhileAIFacesIssues,1,21,4.8
+OQ6,PresentTemplateAsTrueGitHubOne,1,21,4.8
+OQ6,MissunderstandingOfTemplateConcepts,1,21,4.8
+OQ6,ClearUpgradeStrategy,1,21,4.8
+OQ6,WayToMakeMoney,1,21,4.8
+OQ6,EducationalPurposes,1,21,4.8
+OQ6,GoodButNotForReusability,1,21,4.8
+OQ6,UsefulWhenSimple,1,21,4.8
+OQ6,MinimalistArtifactDuringAIEra,1,21,4.8
+OQ6,MartinFowlerRule,1,21,4.8
+OQ6,PersonalForMyself,1,21,4.8
+OQ6,BringVisibilityToContributors,1,21,4.8

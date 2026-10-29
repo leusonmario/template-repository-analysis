@@ -1,0 +1,524 @@
+{
+  "recruitment": {
+    "initial_candidate_records": 55740,
+    "after_bot_automation_noncontactable_filter": 29591,
+    "selected_and_contacted_over_50_commits": 6652,
+    "undeliverable_emails": null,
+    "delivered_invitations": null
+  },
+  "data_collection": {
+    "total_submissions": 116,
+    "consent": {
+      "I accept": 116
+    },
+    "screening": {
+      "Yes": 114,
+      "No": 2
+    },
+    "final_analytical_sample": 114
+  },
+  "distributions": {
+    "num_templates": {
+      "5-10": 19,
+      "2�5": 61,
+      "1": 29,
+      "More than 20": 5
+    },
+    "maintenance_active": {
+      "I update them only when needed": 45,
+      "I update them regularly": 21,
+      "I update them occasionally": 32,
+      "I no longer maintain them": 11,
+      "Maintenance is shared with others": 3,
+      "I am not sure": 2
+    },
+    "ownership": {
+      "Yes, templates maintained by organizations usually follow different maintenance practices": 35,
+      "It depends": 14,
+      "Yes, templates maintained by individuals usually follow different maintenance practices": 11,
+      "I am not sure": 34,
+      "No, ownership does not influence maintenance practices": 20
+    },
+    "quality_propagation": {
+      "Yes": 86,
+      "I am not sure": 7,
+      "It depends": 16,
+      "No": 5
+    },
+    "followup": {
+      "Maybe": 39,
+      "Yes": 49,
+      "No": 26
+    },
+    "github_frequency": {
+      "Daily": 92,
+      "Frequently": 21,
+      "Occasionally": 1
+    },
+    "current_position": {
+      "AI / ML Engineering": 3,
+      "Project Manager": 1,
+      "Data Scientist": 2,
+      "Software Engineer": 73,
+      "Student": 13,
+      "Engineering / Product Leadership": 3,
+      "Researcher": 9,
+      "DevOps Engineer": 4,
+      "Unemployed": 1,
+      "Hobbyist": 1,
+      "Academic Faculty": 2,
+      "Founder / Executive Leadership": 2
+    },
+    "years_position": {
+      "Less than 1 year": 8,
+      "More than 10 years": 28,
+      "5�10 years": 33,
+      "1�3 years": 25,
+      "3�5 years": 20
+    },
+    "years_dev": {
+      "5�10 years": 42,
+      "More than 10 years": 45,
+      "Less than 1 year": 1,
+      "3�5 years": 20,
+      "1�3 years": 6
+    },
+    "org_size": {
+      "11�50 employees": 16,
+      "51�200 employees": 17,
+      "1�10 employees": 24,
+      "Not applicable": 18,
+      "More than 1000 employees": 28,
+      "201�1000 employees": 11
+    },
+    "gender": {
+      "Woman": 4,
+      "Man": 105,
+      "Prefer not to say": 5
+    }
+  },
+  "multi_select": {
+    "roles": {
+      "Creator": 109,
+      "Maintainer": 82,
+      "Contributor": 51,
+      "Organization/team member involved in template design": 17,
+      "User who later contributed improvements": 14
+    },
+    "motivations": {
+      "Reusing project structure across multiple projects": 99,
+      "Standardizing development practices": 78,
+      "Sharing best practices with the community": 68,
+      "Encouraging consistent tooling, such as testing, linting, or CI/CD": 54,
+      "Supporting a specific technology, framework, or ecosystem": 49,
+      "Supporting team onboarding": 34,
+      "Supporting teaching or training": 34,
+      "Reducing setup/configuration effort for others": 90,
+      "Demonstrating a reusable project structure": 73
+    },
+    "contexts": {
+      "Open-source projects": 93,
+      "Industry/professional projects": 43,
+      "Internal organizational reuse": 31,
+      "Academic research": 22,
+      "Personal projects": 78,
+      "Experimentation or prototyping": 27,
+      "Teaching or educational activities": 22,
+      "Team onboarding": 17
+    },
+    "domains": {
+      "Automation/DevOps": 51,
+      "Communication/Bots": 10,
+      "Data Management": 6,
+      "Infrastructure/Cloud": 13,
+      "Machine Learning/AI": 6,
+      "Regular Project": 62,
+      "Research": 11,
+      "Data Apps/Visualization": 7,
+      "Education": 22,
+      "Robotics/IoT": 1,
+      "Mobile Development": 10,
+      "Web Development": 72,
+      "Plugin/Extensibility Frameworks": 20,
+      "Game Development": 7
+    },
+    "audiences": {
+      "Myself": 89,
+      "External developers/community": 72,
+      "Open-source contributors": 62,
+      "My team": 47,
+      "My organization/company": 47,
+      "Researchers": 14,
+      "Students": 30
+    },
+    "adaptations": {
+      "Removed project-specific content": 57,
+      "Removed sensitive information": 51,
+      "Replaced fixed names/paths/URLs/project information with placeholders": 40,
+      "Added setup/installation/configuration instructions": 69,
+      "Added examples/comments/guidance": 52,
+      "Added supporting files": 59,
+      "Added or updated automation": 44,
+      "Created as a template from the beginning": 31,
+      "Rewrote or updated README": 71,
+      "Replaced real configuration files with examples": 54,
+      "No specific changes": 6
+    },
+    "ai": {
+      "Generate/improve documentation": 54,
+      "Review code/detect issues/suggest improvements": 53,
+      "Improve/refactor template structure": 50,
+      "Configure CI/CD/tests/linters/dependency management": 31,
+      "Generate initial template structure": 20,
+      "Create templates for AI-based applications": 13,
+      "No AI use": 44,
+      "Not sure": 3
+    },
+    "maintenance_aspects": {
+      "Keeping dependencies up to date": 89,
+      "Fixing reported issues": 80,
+      "Updating documentation": 74,
+      "Monitoring vulnerabilities or security alerts": 65,
+      "Maintaining CI/CD pipelines": 50,
+      "Responding to user questions": 44,
+      "Publishing releases or changelogs": 41,
+      "Maintaining tests": 33,
+      "Updating supported technology versions": 65
+    },
+    "maintenance_signals": {
+      "Recent commits": 88,
+      "Dependency updates": 63,
+      "Issue responses": 62,
+      "Security fixes": 60,
+      "Recent releases": 57,
+      "Pull request reviews": 57,
+      "Technology/version updates": 55,
+      "Documentation updates": 50,
+      "CI/CD updates": 31
+    },
+    "quality_monitoring": {
+      "Bugs": 66,
+      "Security alerts/dependency risks": 61,
+      "Build/CI failures": 47,
+      "Code smells/maintainability issues": 60,
+      "Outdated dependencies": 59,
+      "Vulnerabilities": 59,
+      "Not applicable": 4,
+      "Do not actively monitor": 19
+    },
+    "development_type": {
+      "Open-source projects": 91,
+      "Industry projects": 65,
+      "Personal projects": 98,
+      "Academic research": 26
+    }
+  },
+  "likert": {
+    "G1": {
+      "counts": {
+        "Strongly disagree": 1,
+        "Disagree": 5,
+        "Neutral": 15,
+        "Agree": 33,
+        "Strongly agree": 60
+      },
+      "agree_or_strongly_agree": 93,
+      "neutral": 15,
+      "disagree_or_strongly_disagree": 6,
+      "other_or_missing": {}
+    },
+    "G2": {
+      "counts": {
+        "Strongly disagree": 1,
+        "Disagree": 2,
+        "Neutral": 8,
+        "Agree": 34,
+        "Strongly agree": 69
+      },
+      "agree_or_strongly_agree": 103,
+      "neutral": 8,
+      "disagree_or_strongly_disagree": 3,
+      "other_or_missing": {}
+    },
+    "G3": {
+      "counts": {
+        "Strongly disagree": 0,
+        "Disagree": 9,
+        "Neutral": 31,
+        "Agree": 31,
+        "Strongly agree": 43
+      },
+      "agree_or_strongly_agree": 74,
+      "neutral": 31,
+      "disagree_or_strongly_disagree": 9,
+      "other_or_missing": {}
+    },
+    "G4": {
+      "counts": {
+        "Strongly disagree": 3,
+        "Disagree": 18,
+        "Neutral": 53,
+        "Agree": 25,
+        "Strongly agree": 15
+      },
+      "agree_or_strongly_agree": 40,
+      "neutral": 53,
+      "disagree_or_strongly_disagree": 21,
+      "other_or_missing": {}
+    },
+    "G5": {
+      "counts": {
+        "Strongly disagree": 2,
+        "Disagree": 8,
+        "Neutral": 53,
+        "Agree": 32,
+        "Strongly agree": 19
+      },
+      "agree_or_strongly_agree": 51,
+      "neutral": 53,
+      "disagree_or_strongly_disagree": 10,
+      "other_or_missing": {}
+    },
+    "G6": {
+      "counts": {
+        "Strongly disagree": 0,
+        "Disagree": 13,
+        "Neutral": 37,
+        "Agree": 35,
+        "Strongly agree": 29
+      },
+      "agree_or_strongly_agree": 64,
+      "neutral": 37,
+      "disagree_or_strongly_disagree": 13,
+      "other_or_missing": {}
+    },
+    "G7": {
+      "counts": {
+        "Strongly disagree": 2,
+        "Disagree": 6,
+        "Neutral": 46,
+        "Agree": 31,
+        "Strongly agree": 29
+      },
+      "agree_or_strongly_agree": 60,
+      "neutral": 46,
+      "disagree_or_strongly_disagree": 8,
+      "other_or_missing": {}
+    },
+    "P1": {
+      "counts": {
+        "Strongly disagree": 5,
+        "Disagree": 13,
+        "Neutral": 18,
+        "Agree": 24,
+        "Strongly agree": 54
+      },
+      "agree_or_strongly_agree": 78,
+      "neutral": 18,
+      "disagree_or_strongly_disagree": 18,
+      "other_or_missing": {}
+    },
+    "P2": {
+      "counts": {
+        "Strongly disagree": 2,
+        "Disagree": 12,
+        "Neutral": 25,
+        "Agree": 39,
+        "Strongly agree": 36
+      },
+      "agree_or_strongly_agree": 75,
+      "neutral": 25,
+      "disagree_or_strongly_disagree": 14,
+      "other_or_missing": {}
+    },
+    "P3": {
+      "counts": {
+        "Strongly disagree": 5,
+        "Disagree": 9,
+        "Neutral": 18,
+        "Agree": 43,
+        "Strongly agree": 39
+      },
+      "agree_or_strongly_agree": 82,
+      "neutral": 18,
+      "disagree_or_strongly_disagree": 14,
+      "other_or_missing": {}
+    },
+    "P4": {
+      "counts": {
+        "Strongly disagree": 4,
+        "Disagree": 16,
+        "Neutral": 24,
+        "Agree": 30,
+        "Strongly agree": 40
+      },
+      "agree_or_strongly_agree": 70,
+      "neutral": 24,
+      "disagree_or_strongly_disagree": 20,
+      "other_or_missing": {}
+    },
+    "P5": {
+      "counts": {
+        "Strongly disagree": 1,
+        "Disagree": 4,
+        "Neutral": 12,
+        "Agree": 42,
+        "Strongly agree": 55
+      },
+      "agree_or_strongly_agree": 97,
+      "neutral": 12,
+      "disagree_or_strongly_disagree": 5,
+      "other_or_missing": {}
+    }
+  },
+  "qualitative_codes": {
+    "OQ1": {
+      "responses_with_codes": 16,
+      "counts": {
+        "NA: ExtToolkit": 2,
+        "NA: AlignReq": 2,
+        "OverallImprovement": 7,
+        "SetupEasier": 5,
+        "BestPractices": 2,
+        "CreateConfigFIle": 2,
+        "AlignReq": 1,
+        "NA: CreateConfigFIle": 1
+      }
+    },
+    "OQ2": {
+      "responses_with_codes": 67,
+      "counts": {
+        "ORG: InternalRegulation": 9,
+        "IT: IndividualEffort": 6,
+        "US: IndividualEffort": 3,
+        "NS: LackOfExperienceToJudge": 12,
+        "ORG: IndividualEffortByUser": 1,
+        "OrgFollowInternalStandards": 1,
+        "NO: IndividualEffort": 3,
+        "ORG: InternalStandard": 4,
+        "InternalRegulation": 1,
+        "US: OrgsNotFollowingGoodPractices": 1,
+        "ID: ProjectSpecification": 2,
+        "US: InternalRegulation": 1,
+        "ORG: ProductOriented": 1,
+        "ORG: UsageReasons": 3,
+        "US: ConventionalStandards": 2,
+        "NO: TargetAudience": 3,
+        "ORG: SharingMaintenance": 11,
+        "ID: ExternalReasons": 1,
+        "ORG: BestPractices": 2,
+        "NS: ExternalReasons": 2,
+        "InternalReg": 1,
+        "ID: InternalReg": 1,
+        "ORG: Visibility": 1,
+        "NO: CostRelated": 1
+      }
+    },
+    "OQ3": {
+      "responses_with_codes": 76,
+      "counts": {
+        "YES: UserExperience": 3,
+        "YES: PreventingHarm": 12,
+        "YES: SpreadingIssues": 34,
+        "ID: SpreadingIssues": 1,
+        "YES: ImproveQuality": 6,
+        "ID: ShiftingResponsability": 8,
+        "NO: ShiftingResponsability": 2,
+        "YES: ShiftingResponsability": 5,
+        "YES: FoundationalReference": 5
+      }
+    },
+    "OQ4": {
+      "responses_with_codes": 87,
+      "counts": {
+        "UpdateMigrateDependencyTech": 11,
+        "CustomizationEffort": 13,
+        "KeepUpToDateGeneratedRepos": 16,
+        "BuildComunity": 14,
+        "EvolutionOfTemplates": 11,
+        "AutomationSetup": 15,
+        "Documentation": 8,
+        "CodeQualityEvolution": 2,
+        "OutdatedStandardVision": 6,
+        "TemplateStructure": 1,
+        "FindTemplate": 1,
+        "SimilarToNonTemplates": 2,
+        "FeatureTemplate": 3
+      }
+    },
+    "OQ5": {
+      "responses_with_codes": 65,
+      "counts": {
+        "ClearUpgradeStrategy": 9,
+        "CreatingWhileUpdatingTemplate": 14,
+        "RegularAutomatedMaintenance": 1,
+        "HaveAndCommunicateClearGoal": 3,
+        "TrackTemplateAndTheirRepos": 5,
+        "VisibilityTemplatesAndRepos": 3,
+        "NotSquashingCommits": 1,
+        "IntegrationWithTechnologies": 3,
+        "BetterDocumentation": 12,
+        "ForcingRulesForCreation": 3,
+        "TemplateVersioning": 3,
+        "CommunicationNotifyUsersAboutChanges": 3,
+        "AutomaticArchivingUnupdatedRepos": 1,
+        "Collaboration": 2,
+        "BetterSearch": 4,
+        "SetupSupportingMultiplePlatforms": 1,
+        "StopUsingSoon": 1,
+        "AnyRepoCouldBeTemplate": 1,
+        "FluidProcess": 2,
+        "GenerateDiagramsFromTemplate": 1,
+        "NeedResponsabilityAndTimeForTemplate": 1,
+        "RegularAutomatedMaintenancy": 3,
+        "FollowBestPractices": 1,
+        "BetterSupportOfGitHubTools": 1
+      }
+    },
+    "OQ6": {
+      "responses_with_codes": 21,
+      "counts": {
+        "GoodButValidForOnce": 1,
+        "ToolForAchievingBestPractices": 2,
+        "DecreaseUsageDueAIWhileAIFacesIssues": 1,
+        "PresentTemplateAsTrueGitHubOne": 1,
+        "ValidButEffortToKeepTemplates": 2,
+        "MissunderstandingOfTemplateConcepts": 1,
+        "SharingKnowledge": 4,
+        "ClearUpgradeStrategy": 1,
+        "WayToMakeMoney": 1,
+        "EducationalPurposes": 1,
+        "GoodButNotForReusability": 1,
+        "UsefulWhenSimple": 1,
+        "MinimalistArtifactDuringAIEra": 1,
+        "MartinFowlerRule": 1,
+        "PersonalForMyself": 1,
+        "BringVisibilityToContributors": 1
+      }
+    }
+  },
+  "derived": {
+    "github_daily": 92,
+    "github_frequent": 21,
+    "github_daily_or_frequent": 113,
+    "development_experience_5plus_years": 45,
+    "software_engineer_raw_position": 73,
+    "experience_more_than_one_template": 85,
+    "experience_at_least_five_templates": 24,
+    "monitor_at_least_one_quality_issue": 86,
+    "any_positive_ai_use": 69,
+    "p1_conversion_subset_n": 83,
+    "p1_conversion_adaptations": {
+      "Removed project-specific content": 57,
+      "Removed sensitive information": 51,
+      "Replaced fixed names/paths/URLs/project information with placeholders": 40,
+      "Added setup/installation/configuration instructions": 68,
+      "Added examples/comments/guidance": 51,
+      "Added supporting files": 58,
+      "Added or updated automation": 43,
+      "Replaced real configuration files with examples": 54,
+      "Rewrote or updated README": 70,
+      "No specific changes": 5
+    }
+  }
+}

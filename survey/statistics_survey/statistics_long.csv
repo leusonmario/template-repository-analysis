@@ -1,0 +1,165 @@
+﻿section,question,item,count,denominator,percent,note
+Data Collection,github_frequency,Daily,92,114,80.7,
+Data Collection,github_frequency,Frequently,21,114,18.4,
+Data Collection,github_frequency,Occasionally,1,114,0.9,
+Data Collection,years_dev,More than 10 years,45,114,39.5,
+Data Collection,years_dev,5�10 years,42,114,36.8,
+Data Collection,years_dev,3�5 years,20,114,17.5,
+Data Collection,years_dev,1�3 years,6,114,5.3,
+Data Collection,years_dev,Less than 1 year,1,114,0.9,
+Data Collection,current_position,Software Engineer,73,114,64.0,
+Data Collection,current_position,Student,13,114,11.4,
+Data Collection,current_position,Researcher,9,114,7.9,
+Data Collection,current_position,DevOps Engineer,4,114,3.5,
+Data Collection,current_position,AI / ML Engineering,3,114,2.6,
+Data Collection,current_position,Engineering / Product Leadership,3,114,2.6,
+Data Collection,current_position,Data Scientist,2,114,1.8,
+Data Collection,current_position,Academic Faculty,2,114,1.8,
+Data Collection,current_position,Founder / Executive Leadership,2,114,1.8,
+Data Collection,current_position,Project Manager,1,114,0.9,
+Data Collection,current_position,Unemployed,1,114,0.9,
+Data Collection,current_position,Hobbyist,1,114,0.9,
+Data Collection,num_templates,2�5,61,114,53.5,
+Data Collection,num_templates,1,29,114,25.4,
+Data Collection,num_templates,5-10,19,114,16.7,
+Data Collection,num_templates,More than 20,5,114,4.4,
+Data Collection,roles,Creator,109,114,95.6,multiple-selection
+Data Collection,roles,Maintainer,82,114,71.9,multiple-selection
+Data Collection,roles,Contributor,51,114,44.7,multiple-selection
+Data Collection,roles,Organization/team member involved in template design,17,114,14.9,multiple-selection
+Data Collection,roles,User who later contributed improvements,14,114,12.3,multiple-selection
+RQ1,motivations,Reusing project structure across multiple projects,99,114,86.8,multiple-selection
+RQ1,motivations,Reducing setup/configuration effort for others,90,114,78.9,multiple-selection
+RQ1,motivations,Standardizing development practices,78,114,68.4,multiple-selection
+RQ1,motivations,Demonstrating a reusable project structure,73,114,64.0,multiple-selection
+RQ1,motivations,Sharing best practices with the community,68,114,59.6,multiple-selection
+RQ1,motivations,"Encouraging consistent tooling, such as testing, linting, or CI/CD",54,114,47.4,multiple-selection
+RQ1,motivations,"Supporting a specific technology, framework, or ecosystem",49,114,43.0,multiple-selection
+RQ1,motivations,Supporting team onboarding,34,114,29.8,multiple-selection
+RQ1,motivations,Supporting teaching or training,34,114,29.8,multiple-selection
+RQ1,contexts,Open-source projects,93,114,81.6,multiple-selection
+RQ1,contexts,Personal projects,78,114,68.4,multiple-selection
+RQ1,contexts,Industry/professional projects,43,114,37.7,multiple-selection
+RQ1,contexts,Internal organizational reuse,31,114,27.2,multiple-selection
+RQ1,contexts,Experimentation or prototyping,27,114,23.7,multiple-selection
+RQ1,contexts,Academic research,22,114,19.3,multiple-selection
+RQ1,contexts,Teaching or educational activities,22,114,19.3,multiple-selection
+RQ1,contexts,Team onboarding,17,114,14.9,multiple-selection
+RQ1,domains,Web Development,72,114,63.2,multiple-selection
+RQ1,domains,Regular Project,62,114,54.4,multiple-selection
+RQ1,domains,Automation/DevOps,51,114,44.7,multiple-selection
+RQ1,domains,Education,22,114,19.3,multiple-selection
+RQ1,domains,Plugin/Extensibility Frameworks,20,114,17.5,multiple-selection
+RQ1,domains,Infrastructure/Cloud,13,114,11.4,multiple-selection
+RQ1,domains,Research,11,114,9.6,multiple-selection
+RQ1,domains,Communication/Bots,10,114,8.8,multiple-selection
+RQ1,domains,Mobile Development,10,114,8.8,multiple-selection
+RQ1,domains,Data Apps/Visualization,7,114,6.1,multiple-selection
+RQ1,domains,Game Development,7,114,6.1,multiple-selection
+RQ1,domains,Data Management,6,114,5.3,multiple-selection
+RQ1,domains,Machine Learning/AI,6,114,5.3,multiple-selection
+RQ1,domains,Robotics/IoT,1,114,0.9,multiple-selection
+RQ1,audiences,Myself,89,114,78.1,multiple-selection
+RQ1,audiences,External developers/community,72,114,63.2,multiple-selection
+RQ1,audiences,Open-source contributors,62,114,54.4,multiple-selection
+RQ1,audiences,My team,47,114,41.2,multiple-selection
+RQ1,audiences,My organization/company,47,114,41.2,multiple-selection
+RQ1,audiences,Students,30,114,26.3,multiple-selection
+RQ1,audiences,Researchers,14,114,12.3,multiple-selection
+RQ2,maintenance_active,I update them only when needed,45,114,39.5,
+RQ2,maintenance_active,I update them occasionally,32,114,28.1,
+RQ2,maintenance_active,I update them regularly,21,114,18.4,
+RQ2,maintenance_active,I no longer maintain them,11,114,9.6,
+RQ2,maintenance_active,Maintenance is shared with others,3,114,2.6,
+RQ2,maintenance_active,I am not sure,2,114,1.8,
+RQ2,ownership,"Yes, templates maintained by organizations usually follow different maintenance practices",35,114,30.7,
+RQ2,ownership,I am not sure,34,114,29.8,
+RQ2,ownership,"No, ownership does not influence maintenance practices",20,114,17.5,
+RQ2,ownership,It depends,14,114,12.3,
+RQ2,ownership,"Yes, templates maintained by individuals usually follow different maintenance practices",11,114,9.6,
+RQ2,quality_propagation,Yes,86,114,75.4,
+RQ2,quality_propagation,It depends,16,114,14.0,
+RQ2,quality_propagation,I am not sure,7,114,6.1,
+RQ2,quality_propagation,No,5,114,4.4,
+RQ2,maintenance_aspects,Keeping dependencies up to date,89,114,78.1,multiple-selection
+RQ2,maintenance_aspects,Fixing reported issues,80,114,70.2,multiple-selection
+RQ2,maintenance_aspects,Updating documentation,74,114,64.9,multiple-selection
+RQ2,maintenance_aspects,Monitoring vulnerabilities or security alerts,65,114,57.0,multiple-selection
+RQ2,maintenance_aspects,Updating supported technology versions,65,114,57.0,multiple-selection
+RQ2,maintenance_aspects,Maintaining CI/CD pipelines,50,114,43.9,multiple-selection
+RQ2,maintenance_aspects,Responding to user questions,44,114,38.6,multiple-selection
+RQ2,maintenance_aspects,Publishing releases or changelogs,41,114,36.0,multiple-selection
+RQ2,maintenance_aspects,Maintaining tests,33,114,28.9,multiple-selection
+RQ2,maintenance_signals,Recent commits,88,114,77.2,multiple-selection
+RQ2,maintenance_signals,Dependency updates,63,114,55.3,multiple-selection
+RQ2,maintenance_signals,Issue responses,62,114,54.4,multiple-selection
+RQ2,maintenance_signals,Security fixes,60,114,52.6,multiple-selection
+RQ2,maintenance_signals,Recent releases,57,114,50.0,multiple-selection
+RQ2,maintenance_signals,Pull request reviews,57,114,50.0,multiple-selection
+RQ2,maintenance_signals,Technology/version updates,55,114,48.2,multiple-selection
+RQ2,maintenance_signals,Documentation updates,50,114,43.9,multiple-selection
+RQ2,maintenance_signals,CI/CD updates,31,114,27.2,multiple-selection
+RQ2,quality_monitoring,Bugs,66,114,57.9,multiple-selection
+RQ2,quality_monitoring,Security alerts/dependency risks,61,114,53.5,multiple-selection
+RQ2,quality_monitoring,Code smells/maintainability issues,60,114,52.6,multiple-selection
+RQ2,quality_monitoring,Outdated dependencies,59,114,51.8,multiple-selection
+RQ2,quality_monitoring,Vulnerabilities,59,114,51.8,multiple-selection
+RQ2,quality_monitoring,Build/CI failures,47,114,41.2,multiple-selection
+RQ2,quality_monitoring,Do not actively monitor,19,114,16.7,multiple-selection
+RQ2,quality_monitoring,Not applicable,4,114,3.5,multiple-selection
+RQ2,quality_monitoring,At least one explicit positive category,86,114,75.4,derived
+RQ3,ai,Generate/improve documentation,54,114,47.4,multiple-selection
+RQ3,ai,Review code/detect issues/suggest improvements,53,114,46.5,multiple-selection
+RQ3,ai,Improve/refactor template structure,50,114,43.9,multiple-selection
+RQ3,ai,No AI use,44,114,38.6,multiple-selection
+RQ3,ai,Configure CI/CD/tests/linters/dependency management,31,114,27.2,multiple-selection
+RQ3,ai,Generate initial template structure,20,114,17.5,multiple-selection
+RQ3,ai,Create templates for AI-based applications,13,114,11.4,multiple-selection
+RQ3,ai,Not sure,3,114,2.6,multiple-selection
+RQ3,ai,Any positive AI use,69,114,60.5,derived
+RQ3,P1 adaptations among converted repositories,Rewrote or updated README,70,83,84.3,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Added setup/installation/configuration instructions,68,83,81.9,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Added supporting files,58,83,69.9,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Removed project-specific content,57,83,68.7,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Replaced real configuration files with examples,54,83,65.1,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Removed sensitive information,51,83,61.4,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Added examples/comments/guidance,51,83,61.4,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Added or updated automation,43,83,51.8,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,Replaced fixed names/paths/URLs/project information with placeholders,40,83,48.2,subset excludes 'created as template from the beginning'
+RQ3,P1 adaptations among converted repositories,No specific changes,5,83,6.0,subset excludes 'created as template from the beginning'
+RQ3,Likert G1,Agree + Strongly agree,93,114,81.6,
+RQ3,Likert G1,Neutral,15,114,13.2,
+RQ3,Likert G1,Disagree + Strongly disagree,6,114,5.3,
+RQ3,Likert G2,Agree + Strongly agree,103,114,90.4,
+RQ3,Likert G2,Neutral,8,114,7.0,
+RQ3,Likert G2,Disagree + Strongly disagree,3,114,2.6,
+RQ3,Likert G3,Agree + Strongly agree,74,114,64.9,
+RQ3,Likert G3,Neutral,31,114,27.2,
+RQ3,Likert G3,Disagree + Strongly disagree,9,114,7.9,
+RQ3,Likert G4,Agree + Strongly agree,40,114,35.1,
+RQ3,Likert G4,Neutral,53,114,46.5,
+RQ3,Likert G4,Disagree + Strongly disagree,21,114,18.4,
+RQ3,Likert G5,Agree + Strongly agree,51,114,44.7,
+RQ3,Likert G5,Neutral,53,114,46.5,
+RQ3,Likert G5,Disagree + Strongly disagree,10,114,8.8,
+RQ3,Likert G6,Agree + Strongly agree,64,114,56.1,
+RQ3,Likert G6,Neutral,37,114,32.5,
+RQ3,Likert G6,Disagree + Strongly disagree,13,114,11.4,
+RQ3,Likert G7,Agree + Strongly agree,60,114,52.6,
+RQ3,Likert G7,Neutral,46,114,40.4,
+RQ3,Likert G7,Disagree + Strongly disagree,8,114,7.0,
+RQ3,Likert P1,Agree + Strongly agree,78,114,68.4,
+RQ3,Likert P1,Neutral,18,114,15.8,
+RQ3,Likert P1,Disagree + Strongly disagree,18,114,15.8,
+RQ3,Likert P2,Agree + Strongly agree,75,114,65.8,
+RQ3,Likert P2,Neutral,25,114,21.9,
+RQ3,Likert P2,Disagree + Strongly disagree,14,114,12.3,
+RQ3,Likert P3,Agree + Strongly agree,82,114,71.9,
+RQ3,Likert P3,Neutral,18,114,15.8,
+RQ3,Likert P3,Disagree + Strongly disagree,14,114,12.3,
+RQ3,Likert P4,Agree + Strongly agree,70,114,61.4,
+RQ3,Likert P4,Neutral,24,114,21.1,
+RQ3,Likert P4,Disagree + Strongly disagree,20,114,17.5,
+RQ3,Likert P5,Agree + Strongly agree,97,114,85.1,
+RQ3,Likert P5,Neutral,12,114,10.5,
+RQ3,Likert P5,Disagree + Strongly disagree,5,114,4.4,
